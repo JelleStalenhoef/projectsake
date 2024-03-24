@@ -1,0 +1,24 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./images/IMG_0081.PNG);
+    
+}
+canvas{
+    box-shadow: black 20px 10px 50px;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    color: white;
+}
+
